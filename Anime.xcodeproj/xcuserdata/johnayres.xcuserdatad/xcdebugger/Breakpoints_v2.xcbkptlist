@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C026D31C-B94C-469A-BB02-BB6983B0F528"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69857336-0CCC-4AAB-8297-03A3DCC86C11"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Anime/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "69857336-0CCC-4AAB-8297-03A3DCC86C11 - 7f535ab7d95dae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseModel, Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in Anime.ContentView.body.getter : some"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "69857336-0CCC-4AAB-8297-03A3DCC86C11 - 7f535ab7d95dae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseModel, Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in Anime.ContentView.body.getter : some"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  uuid = "69857336-0CCC-4AAB-8297-03A3DCC86C11 - 7f535ab7d95dae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseModel, Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in Anime.ContentView.body.getter : some"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29FD0422-37F6-433A-BC9C-101698BA5579"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "requestData(for:onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29FD0422-37F6-433A-BC9C-101698BA5579 - d6d56ef2fa358013"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Anime.AnimeInteractor.requestData(for: Swift.String, onComplete: (Swift.Result&lt;Swift.Array&lt;Anime.AnimeEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "29FD0422-37F6-433A-BC9C-101698BA5579 - c865ef7b1894efdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseEntity, Swift.Error&gt;) -&gt; () in Anime.AnimeInteractor.requestData(for: Swift.String, onComplete: (Swift.Result&lt;Swift.Array&lt;Anime.AnimeEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "901BAC85-F708-44E8-AD95-56F4F07DC1AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Anime/VIPER/AnimeModule/AnimePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "search(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F367D55-B00A-483E-B823-F408F240856C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Anime/VIPER/AnimeModule/AnimePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "search(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA8FF8E3-D163-4D28-8E4B-7E228E94EA42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "requestData(for:onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA8FF8E3-D163-4D28-8E4B-7E228E94EA42 - c865ef7b1894ef9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseEntity, Swift.Error&gt;) -&gt; () in Anime.AnimeInteractor.requestData(for: Swift.String, onComplete: (Swift.Result&lt;Swift.Array&lt;Anime.AnimeEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "BA8FF8E3-D163-4D28-8E4B-7E228E94EA42 - c865ef7b1894ef9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseEntity, Swift.Error&gt;) -&gt; () in Anime.AnimeInteractor.requestData(for: Swift.String, onComplete: (Swift.Result&lt;Swift.Array&lt;Anime.AnimeEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "178">
+               </Location>
+               <Location
+                  uuid = "BA8FF8E3-D163-4D28-8E4B-7E228E94EA42 - c865ef7b1894ef9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Anime.AnimeResponseEntity, Swift.Error&gt;) -&gt; () in Anime.AnimeInteractor.requestData(for: Swift.String, onComplete: (Swift.Result&lt;Swift.Array&lt;Anime.AnimeEntity&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Anime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/johnayres/Development/Personal/Anime/Anime/Anime/VIPER/AnimeModule/AnimeInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "330">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
